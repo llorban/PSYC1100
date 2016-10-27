@@ -23,3 +23,16 @@ Three criteria must be met:
 3. The make-up must be written **within one week of the last day the medical note covers**.
 
 If any one of these conditions are not met, a make-up exam cannot be written.
+
+## Classroom and Technology
+* Note taking during the class is essential for three reasons: (1) some material is presented only in the class; (2) a lecture points you to the most important content in the textbook (ever wonder what's on the exam?); (3) writing down what you hear helps you internalize the material -- the first step in learning. 
+* I cannot guarantee that powerpoint/keynote slides are provided ahead of each class. Sorry -- I often update slides before the start of the class
+* Taking notes using laptops, tablets or smartphones is encouraged. 
+
+## Communicating with Dr. Orban
+Mode of Communication | Typical Use 
+-------------:|------
+Github Issues | For course related questions, please use the GitHub **Issues** and start a new ticket. You can use this form of communication to ask questions from fellow students.
+Office Call | May be used during office hours
+Email | Use for personal issues and sensitive questions. Response typically within 48 hours
+Office Hours | Drop by with any questions, or for a chat
