@@ -18,8 +18,8 @@ The only exceptions to missing an exam are medical excuses.
 
 Three criteria must be met:
 
-You must notify Dr. Orban before the exam. This may be as little as 5 minutes before the exam, and may be completed by email.
-You must present a medical note within 7 days of missing the exam. The medical note may be scanned and emailed if a meeting with Dr. Orban cannot be arranged.
-The make-up must be written within one week of the last day the medical note covers.
+1. You must notify Dr. Orban before the exam. This may be as little as 5 minutes before the exam, and may be completed by email.
+2. You must present a medical note within 7 days of missing the exam. The medical note may be scanned and emailed if a meeting with Dr. Orban cannot be arranged.
+3. The make-up must be written **within one week of the last day the medical note covers**.
 
 If any one of these conditions are not met, a make-up exam cannot be written.
