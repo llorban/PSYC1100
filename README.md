@@ -8,6 +8,18 @@ Peek into the inner workings of the human mind.
 
 You will study topics related to basic psychological processes. This will include critically examining areas such as the biological basis of behaviour, sensation, perception, states of consciousness, learning and memory. You will learn about the historical and philosophical contexts behind the development of psychology and the research methods used by psychologists.
 
+### Textbook
+<img src="https://images-na.ssl-images-amazon.com/images/I/41--BaOSARL._SX417_BO1,204,203,200_.jpg" width="150px" align=left> 
+**Title**: Psychology, Eleventh Edition
+
+**Authors**: David G. Myers & C. Nathan DeWall
+
+**ISBN**: 1-4641-4081-2
+
+**Note**: Used textbooks, older editions are O.K., but the LaunchPad add-on is **required**. 
+
+**Check the price before you buy**: [Amazon](https://www.amazon.ca/Psychology-Professor-David-G-Myers/dp/1464140812/ref=sr_1_fkmr0_1?ie=UTF8&qid=1477609372&sr=8-1-fkmr0&keywords=myers+dewall+eleventh) · [eBay](http://www.ebay.ca/sch/i.html?_odkw=myers+eleventh&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Xmyers+psychology.TRS0&_nkw=myers+psychology&_sacat=0)
+
 ## Important URL's
 
 | Service      | URL            | Description |
