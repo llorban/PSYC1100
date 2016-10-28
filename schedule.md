@@ -2,8 +2,9 @@
 
 | Date | Material | Deadlines |
 |------|----------|-----------|
-| | Orientation & Introductions | Prologue, LaunchPad, GitHub, ownCloud |
 | | Last day to add/drop without a "W" | |
+| | Classes start | |
+| | Orientation & Introductions | Prologue, LaunchPad, GitHub, ownCloud |
 | | Thinking Critically about Psychologyical Sciences| Chapter 1, LaunchPad|
 | | Biology of the mind: Neural communications, endocrine system, and the brain| Chapter 2 & Research Participation Orientation |
 | | Library Orientation| Chapter 2 |
